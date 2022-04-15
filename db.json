@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "title": "Убийство в Восточном экспрессе",
+      "type": "Детектив",
+      "price": 7775,
+      "description": "«Убийство в „Восточном экспрессе“» (англ. Murder on the Orient Express) — детективный роман английской писательницы Агаты Кристи, написанный в 1933 году в Ираке, где она находилась в археологической экспедиции со своим вторым мужем Максом Маллованом. Является одним из наиболее известных произведений романистки, ярким образцом романов её так называемого «восточного цикла».\n\nВ основу романа легли факты из реальной жизни, её собственных впечатлений и наблюдений, а также известных ей из средств массовой информации и других источников. Она неоднократно путешествовала на роскошном поезде «Восточный экспресс», а особенно памятным стало возвращение в Англию из Турции в декабре 1931 года, сопряжённое со многими трудностями, вызванными непогодой. Ещё одним событием, повлиявшим на замысел книги, стал случай, произошедший в январе 1929 года, когда «Восточный экспресс» попал в снежную бурю и оказался заблокированным на шесть суток. Также одной из сюжетных основ романа стало знаменитое похищение в марте 1932 года ребёнка известного американского лётчика Чарльза Линдберга. Несмотря на принятые меры правоохранительных органов и общественности, после выплаты выкупа сын авиатора был найден мёртвым.",
+      "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_200/18922333-agata-kristi-ubiystvo-v-vostochnom-ekspresse-18922333.jpg",
+      "id": 2,
+      "author": "Агата Кристи"
+    },
+    {
+      "title": "Поэзия Серебряного века (сборник)",
+      "type": "Поэзия",
+      "price": 510,
+      "description": "Конец XIX и начало ХХ века в России принято называть «Серебряным веком русской литературы». Почему Серебряным, спросите вы? Потому что «Золотым веком» называют другую эпоху — время, когда творили А. С. Пушкин, М. Ю. Лермонтов, Н. В. Гоголь. Первоначально этот термин, придуманный критиком М. А. Антоновичем, относился лишь к первой половине XIX века, но затем «захватил» и И. С. Тургенева, и Ф. М. Достоевского, и А. А. Фета с Ф. И. Тютчевым.",
+      "img": "https://books.google.kg/books/publisher/content?id=tFp-DwAAQBAJ&hl=ru&pg=PP1&img=1&zoom=3&sig=ACfU3U2ESg_oev8TdoNoJX49UreUNq45Xg&w=1280",
+      "id": 3,
+      "author": "Николай Степанович Гумилёв"
+    },
+    {
+      "title": "Думай медленно… решай быстро",
+      "author": "Даниэль Канеман",
+      "type": "Психология",
+      "price": 887,
+      "description": "Думай медленно… решай быстро (англ. Thinking, Fast and Slow — «Быстрое и медленное мышление», 2011) — книга-бестселлер (по версии New York Times[2]) в 2011 году, написанная Даниэлем Канеманом, психологом, профессором Принстонского университета (США), лауреатом Премии по экономике памяти Альфреда Нобеля 2002 г. за «применение психологической методики в экономической науке, в особенности — при исследовании формирования суждений и принятия решений в условиях неопределенности».",
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQUEhcVFBQXGBcXFxsaHBoaFxgaGhwaFxcaGhcXFxobICwkGx4pIBoXJTgqKS4wMzMzGyQ5PjkyPSwyMzABCwsLEA4QGxISHTMpJCYyMjAyMDI9NT07MjIwMzIyMjA9MDAwMjIwMDIyMDIyMjAyMjIyMjIyMjIwMjIyMD4yMv/AABEIARMAuAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAQUDBAYCBwj/xABEEAACAgEDAgQDBQQGCAYDAAABAgADEQQSIQUxBhNBUSIyYRQjcYGRFUJSoSSTscHS8Ac0YnKCkrLxQ0Rzg9HhFiU1/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECAwUE/8QAKBEBAAIBAgQGAgMAAAAAAAAAAAECAwQREhMhUQUxQ1NhkRViFEFS/9oADAMBAAIRAxEAPwD7NESMwJiRGYExIzGYExIzGYExIzGYExIzGYExIzGYExIzGYExIzGYExEiBMSMxmBMREDxmc140v1KUKdNvLbwDsUsduGzwB77Z0ojEi0bx0XxX4LRbbf4l8l/aXVvbU/1Lf4YPUure2p/qW/wz6ztjbMuT+0un+Tr7Vfp8mHUure2p/qm/wAM2m13UcJg6rkjd9y3A9T8n9k+n7ZO2OVP+pUnxGJ9Kv0+WabX9Ty277QBg4+6bvnj92RVr+pbDu+07twxitu3qT8M+qbYxJ5c90fkKz6VXzIa/qGX/wBZx2X7pv4W5+T32/rPFeu6kduftI+DLfdt83t8k+obY2xy57yj+dHt1fLzruo4POpzvOPum+XcMfufw5nizX9Sw+PtOd/wjym5X3+X8J9T2xtjl/Mka+senV8sr13UsKT9pzuGR5TfL64+Hv3/AFmVtX1HfgNqdu08+U/zZO39zPbbPp22Nscue5Ovj26vly67qWFz9ozgk/dN3/dX5P1x7yX13UdrY+1ZB4+6bkEj/Z7jnv6Z+k+obY2yeXPcnXx7dXy1Nd1L4c/aeW+I+U3Az6DZjGPzmSrW9QJ+I6kDav8A4T9/3h8me0+nbY2xy57k6+Pbq+TN1Lq2eBqf6pv8Mj9pdW9tT/Ut/hn1rbG2V5U95aR4lWPSr9Pkn7S6t7aj+qP+GdX4I1WrdrftQsAATbvQp/HuxkD/AGf1nX7ZIEtXHMT5ss+ujJSaxjrHzHm9SYiaOeREQEREBERASMyk8Q6ZXbTg5yblXhiMrtZmBx3Hwyr6RSB1bUqM7UooZV3NtUvv3EKT3OIHX5kbvoZyPjSg1GrWruI07qbkDHa9J+FmK5xlCVfPsDN7T0pfqzcCWSqtVXDNtZ2w5Yr2JA2gfiYHQbpJM5XxpRYVregkW1szrgkBxWhc1t6ENgiZ9Z1UX6WtqHIbUp8B9VGwtY+PQqufzwPWB0eYBnP+CVH7O07ZJLVKxLMWJJHJYnvNLxnqrAn3LENpwuocDGXVGGK+ePiG/wDSB1uZp9Q1y0oHcNt3qpKqW272C7mx2UZyT6CZdLqFsRbEIKuoZSPUMMg/znLV7K+qalmYqtelrs5Ztq5awO23OAcAQOk6frkuUugbaGZQWUrnacblz3U+h9RNwGcZ09Xs6l5lm4btNvWskgVjfhAyjgtjvn1OPSdmIExEQEREBERAREgwJieQ0ZgepBkbozA5vW6myzWqtdJdNNlmbeFy9iYUAHvhS36zU0XnV9SeyykqmpRK1IdWw1SuzFh7EZx+E6sVgEkAAnk8Dn8ZBqBIJAyDkHA44I4/I4gV/WLrAoRNObRYGRviVVXK933d1PY4yZk6D0pNLpq6E7VoBn1J9Tz9Zv55kg/5/vgU+uFx1VRWoNUgfc28A5cAAhT3A5zK7pPQX0p1DD7xd1n2dAQNiWkWWDJ7FrCfyQTqCZMCj8J6a2jQ1U2oA9VYQgMCGKjuD6D8Zr6HpQta6zV6dC7uduSHxWqhUQHHB7k/VjOiz/n/AD6yYHPeDNLqKNOKL0AFbMKyHDfdlia0bAGCqnH4ATWfo9tvUXsdQunNdYI3AtY1Lsyqy44XLAn32ges6r/PvJgc+NNd+0vN8seV5Pl7t4zndu3bfadEJ5Bkb+cQMkSAZMBERAREQE8ntPUx2khSQMnHA9/pA4vomoOn171Fj5Oraw1AkkJZRgPWuTwGQF8f7J95k1rm7qNDFj5QeytUydrNWuXc++GG38jI1XQdRfoyjbatRXf51Lh94DCwsMnH8JKkY5m5remWrfpPJQNXpy24mzDEOhU4GOWydxP1gef9IKgaItyCttOCCwIHnIGwV57ZGPWZumNprNT9yHV66viGx0RlsbAyHA3EGs8jtn6z34u0N1+m8qlFZmdGJZ9gGx1b2Oc4M2PM1LWVfcpWuT5jFw7bQrbUUBfVtuT6CBi8TaZXWnIyTfWvcj4SSWHHpgGVvT9Oo6zcoGFXSUuq5O0M1lqlgucAkAfpNzqN9tmqRK6ty0fGzGxVBZ0ZUAyDnA3E/iJo0m6vqvnWUgJqakoXbYGKtUbHLOMDgg8Y9oFr4roV6UB+Y30KpBIPxX17hkehUNn6Zlb0zTIvV9QqjCppqGVcnarO9odgM4yQq/pLLXaS27V07gFooPm5yCbLSrIigfuqm5mOe52exmDRaK9epXahq1FVlNdYbeCwNTWHJXHY7x6+kDT8ZCtdTomcHa1zK+AxDL5TkKyr8wyBLLw8aHe+yjeF3LWysrKoetA25FbsCroP+GYfEGi1Fmo0r1VqyUWmxi1m0kGt12qAp9WH6Tf0j3tc29Err2dg252sJ+Y4AwoUY+pJ7Y5DntTbXV1gs4fB0wYBUtf4/Mxv2ICAccZjza7er1FA+Ps9pYMtlYLq9YVtrgbiAW5xLJdHf+0jfsXyjSKs7/izv3BtuO35yNVo726lVeEU1V1PWT5mGPmNW24LjsNp9YGv4/CrTU5zxqagSpbO1nwy/DyQR6Sv8ddRqs0YWvzVcW0BT5V1eA16Kyh2UAZUkd+ZdeLNFfclS0orFLUsYs+zArbOBwck8zz4x6ffqdJ5VSKWZ62O58BRVajkZwc524gbHifqH2LQ3XIozXWdg7DceBn8zmedN4fqagLbussZQWtLHeXKjc6sDleckAYA9Jt9V0K6rSvTaNotQqwBBK59j6ntK/ptmsqqFT1LY6KFW0OFVwBhXdT8SnAGRzyDAjwVr7LKrq7W32aa96S/8YUKyMfrtdQfwnTSn8PdL+zVFS293drLHAwGdzk4HsBgD6ATY0dl5a0WoiqHxWVYksm0cvx8JzkQLCJTV36v7JuaqoanB+7Fh8vO4hQXxnkYJ4lrUTtGRg4GR9fWBkiIgIiIEASYiAkYkxAxhACSAMnv9cdswawcEgHByMgcHtke05bx/Wnk0O2BjWadS2SMI1yhwSO4I9DxMPTj/wDsz9lP9H8g+cFJNYs3fdbf3d+0NkL6YzA7KJxHXRUvVtMXUlX015ZQjOGZGr2MyLktjLDkS+8Pio12WUhlR7GO1gRtK/C21SAVHGcQLmecD6f9+85Po+lT9pa8bRjbTx6DfXl8e2TyfeUFFQ//AB/Uv++DqiGJO4Ml1iIQ2c/CBjPsIH00SOJpdLqVaKgowPLXt9VBP6zmPEvUWTU13K/3eltRLEyPj84AMe/ZAyH8zA7UiV+v161FNyuVZiCyqWC4UsN+MnBxj8SJu5yPxnG9JdKL+oWFclLlVFHJYvUhWtATwWc9vciB1eg1Pm1pZsZN4ztYYYZ9GHoZtYnHeGdKw1urNp3WDyiWJJALpllQfuqOAP8Adz6zsRASYiBGJMRAREQEREBERARE8k4gc/4s6fdelSUoh2X1WsXcqMVWBiowpySBx7S7064UfCFJGSoxwTyRkd5lDD3jcIHM9R0GpbqNOpSus11VWVkGwqzGwo2QAhAxt9T6y00AvL2NaqIvw7EVt31Zido5JOPyljuHv/kyciBy+k0mrr1mpv8AJrZLvLCgXEMBWpGWBrxz34JlbX0LWDpluiNVW6wX4fzjtHnWO4/8PPG7E7d7VUZZgB7kgDntyZ6DAjIPBgaGlFqUKCi+YqAbN/wkgAfPt4HHtKanoBfRWV6impr7VfeQQQz2EksHKAgDIwMcBROnWxT2IP4fSSrg9iDjvzAqvDtepTTImqCeYiBCyuWV9oA35Kggn14lZ0nodw1d99wQI1vmVorFvi8sVl3yo5ABwOfmM6gMPfvJ3CBz/SdHqE1motetBXds2kOWYbF2/ENoHPfgmdCJja1RjJAz2ye/4TLAREQEREBERAREQEREBOc8eID03VE90osZT6hlXIYH0IInRym8U6Ky/R3U0hN9tbV5diqgOpUsSFYnGe2IFRoLdIr6XdWabWXFZNflrYWrG5C2MMT3x34mTx1UpqpZk3ldRUMADcQzgMBnggj3nqzouovOlF3l1pp3SwhGZ2d61woBKLsXIB9c9ps+KOn6i5KlpWs7bksY2OyDFbBsDajZJ5/CBg13VKbEu0r1tXYKHda3TblAMbkPynB9u3Ey+E9tfTaWA7UKzY7khcnn3mr1DoeouuOoYVB0osqrrDttzdtDvZZsycAcAL+ctfDmhsq0lVNyoHrQIdjFlOBjILKD/KBTeD6Bq9Mms1IFtmoDP8YDLWhYhKq1I2qoUAE4yxyTzLvp3Sk04sWsbUewuEGNqEqqnYAOF+Hdj0J4lV0fpmo0KtTUiXacMzVjfssrDHPlnIKsoJODkH3z3lx0xL8O9+wMz5VFYsqIBhRuKgljySceuPTMDmPEfSaafsSoi/Fra1Ztq7nDbywsOPiyc8YnU6HpdVLWNWoQWEFlAAXKgjIA7ZErPE/TtRc2nNKVEU3pc292UkJnKqFRuTn1l/yRyOcdgfX8YHz2qvSC7qa2qoxagrUA7x/R0P3RX4gSxPy+sv8Ap+tu03SRdqQWtq0rWOG+YsiFgrH3OAJ76F0u+vU6uy1K9l9i2KUsZmXZUleCCg5O3OQfWXur062VvW4yjqysPdWBDA/kTA57oPSa7dLXZqFW6y6sPY7qGyXGSFznaoyAAvbAmLwbqHW7WaN3axdLagrZiWby7axYiMx+bbkgE+mJm6PotXpKhpwiX1oNtdhsKPsHyraNp5HbK9/YTe8P9JNAsssYNdfZvsZQQucBURAf3VUBc+uCeM4AXUSBJgIiICIiAiIgIiICIiAiJEBEgmAYAyczS6nqWrqZ1AJXnBOMgd5o6DxHRYOW2HjhuM59j2MrNoidpTFZmN4XU9TEHB5HMyyyCIiBGJMRAREQEREBERAREQERIMCMxIlZ1XrVOnXNjcnso5Y/gB6SszFfOVqUm87VjdZ7pQ9S8U0UsUyXYdwoyAfZm7AzkOs+Lbbsqn3afQ5Yj6kf3TnGtXBOfTuT2Pr+JnkyamZnhpDsYPCZiOLPO3w6vU+Mri5KABeQAeRnPH1PGZveGPFLPYa9Q4+L5WICjP8ACBOF0y2WnZWpY9s4/n/OdV0bwhqUdbGcA5zg4MnFXLvvaVNXfSUrNKR17u919Qep1PqD+uJ8W1VTCxwDkZxgccj3E+31qdoDcnHP6TmOt+DqriXQ7HPtN8mPihzsOXl28t4cb0jxDfQMI3HGUf4h+XqPynadH8Y1WgC37p/YnKn6hsTh+qdC1GnzvQsufmHeVVVuSRz/AJ9xPHNsuKe8O5XHpNXG0dLPua2gjIIIPtzPRM+P9L67bpz9252jnYeVI7HA/wDidn0zxvU4AtU1k8Z7r+fqv5z001NbebnajwzLimeGN4+HYAxMFN6sAysGB7Ecj+UzTeJc+Y283qIiSgiIgIiICIiBExX2qilmICgZJJwAB6kzD1DX10VtZawRFGSSf5D3M+P+KPGb6wlEJSkHhP3n+r/3CZ3vwwvSnFLq+t+OM/BpRwcjew/6V/vM4zUahrGLOxZj3YnJ/wC0rdNcSo789h6/nOk6J4Vu1BBYFE/SeXl3yzvbpDv01Om0eOOGN7T9qmou521qWJ+nE6no3gV3Ie44Xvj/AOp2vRvD9OmUBVBb3PeXE9FMVaOPqdZk1E72lo9O6TVQMVoB9fWb4EmJs8pIxJiBisrVhhgCPrOK8SeEQfvNOMN6gCdxiJExvG0pra1Z3rPV8P1OltqYiyojgg/CCME+xHHPtNbT3AZAGP17T7lqNKjjDqpH1E57qngyi0fANjfSee+mrbydLD4plpMcXVw/RNRetirp32Mx4BbCtj90g8HM+gftp6/huQb9oOE9z+P+eJwmt8PX6R1fYbAjBlYEhlYHIYcEH8DNzTdYrusL27g4GAmGdiCSXwrY5+U4BwADiTjpOONpndnrNRTUXi1Y2fQ9H1Kq0fA4z7Hg/mJuZnGWvVWr2bnZdgKYCcgD5uMZXOBg895QdK8d2VnFq+YmcnHDr68DsR9JpGSInaWNNLfJWbV/p9SEma2i1K21o652uoYZ4OCMjM2Zo820x0lMREBMOoYqjFRkgEgZAyQOBk8CZp4Zcgg+sD4z4lOr1dv39i4B+Cmv41Ttyz9mb6gY+s99J8CXWc7NgPqZ9X0/TKkOVQZJzmbwkbQnilyXRfBVVOGf42E6pECjAAAmSJKCIiAiIgIiICJEmAiIgeHQEYIzOf6z4Tov5ChW9xOjiB8q6x4f1tSMqu1lR/M4/HvOObTWeYAykH2+s/QZmhf0eh2DNWMjnMpOOJnd6MWpyY6zWJ6Sw+G9OyaZA5ycD8vpLeQowJMuwmd53TERCCIiAiIga+s1C1oXckKvJIBOB+UrW8SaUbM2Y8wgJlWG8kZAXjnjJm71W0JRY7HAWtyf+UzlOsV7W6OvtqFH0/1ayB2yma9Wsrd3rVgXr2719V3glc+2QCZOovWtGdzhUUsx9goyT+gnB9M1TVa6i567UOrVkuL1ui+ax30qGbg7RurHuFEDvdRetal2OFHfAJ/kJraHqtN1Xm1Pvr/iUNg/VfcfhNu35W/A/wBk4/wPbqv2dpvLrpKbOC1titgse48ogH6ZgdL0rq1OpUvS4dQcbgDjIOCAfoeJ50/WKLLXpR82JjeuCCuc43e2cH9JS/6N8/s9c9/NvzjsD575HpNarVmvqXUCo3OyaJEXPzOy37R+AGSfYAmB0q9VpN504cG1QGKDJIB7Fvbse/tJ1fUq62CM3xsCwRVLMQDgttXnE57oOl8rqWpTdk/Z9OzN/E7Pdub8z+nEvdZS6sbKa62tIVCXdkGwEkAFUYnknjEDNouo127gjZZDhlIIZTjI3KeRPOv6pVQVFjbd52rwTlj2UY9e85e57h1jSF0qR7KNQr+XYz7kQoybyyLjazHHfu0uuvuGt0dfq2o34/2aqbHJ/UIP+IQNrQ9aouc11vudRll2sCAeRnPbM9arrFNdq0u+LHGVXBJYDuRjuBkZ/ESq6H//AENf/vVc/wDtCY+v+Z+0tD5ZUN5ep5cEr8lfoCP7YHUqZ6lB0brD2ai7S2oFspCNlCSjJZu2sM8qfhOQZfCBMREBERAREQEgyZBMCk8QaW27y6UYpW7E2MFBO1VLBRngZYKPwzK/xB0O50W1by1umL21L5abTYK2VVYDkjn0x3lwetU+f9n3Hzcbtu1vlzjd27Z4zMun6jW9j1oSWrxuODtBOeA2MEjHIHaBg6r01tRUKzYUBK78KrbtpBKnP7pI5+kx9b6L9qqWprGTa6PuUDduQhlIz25H6cSx1eqSqt7LGCoilmJ7BVGSf0mWqwMoYHIIBBHqCMgwMDUOa9nmYbGN4UfmdvaaXROjnS6ZaEtLBBhGZVyo+oHBmTqHWqaLErsYh7DhBtY7j/CuByfXEnqPWqaCgsYqbCFX4ScseyjHr9IGHw70X7JV5S2M67mYbgAQXYs3b6kzHpOgKmrt1bOz2WKqgEAKgUFcrj1wcZPp+Jlhr+oV01mywkIBknaTge5A5E1quvUOawGb70gISjAMSpYAEjHIBgY6OjFNXZqfNYmxFRk2rt2oSVx6g/Efxnu7pJ843V2GuwqFbgMrhc7dyn1GTyD6zN1Tq9OmUNc+xWYLuIO0EkABiO3J9ZvFgBn0gVWh6OK7nvdzZc6hC5AG1AcitFHCrkk+5MyJ0v8ApJ1DOWOzYiEALWGILlfdmIGSfYT30vqtWpUvS29ASu7BCkgkHaT3wQRxM3UNfXRWbLWCopUFj2y7BV/VmA/OBodP6KatRbd5rMbsblKqF+EYXBHI4kdQ6K1morvFzI1SsqAKpHxgB8575wPaXIaVt/WqUvWhmIscZVdrcgYyQcYIGRn2yIEdN6QlL2W5Z7bSu92xuIThFGOAoycD6y0ErNZ1umq1KrGIss+RdrHdgZO3A5wOT7SzBgTERAREQEREBIMmQRA4jqtl69WY0KjP+zwdrsV/8w2duAct2wDgS98M6mqzS1vVuCsDkNjcH3EWCwKSA+7dn6z1+xf6Z9r8193livZhdu0MWx2z39Z66d0ZKLbXrZglrF2rOCgsONzp6rnHI7esDV8TahT5dDV2WLYSzqiFyUT0IHoWI/Saf+j7VN9kOncEWaR2oIYYbYvNJIPbNZT19JcafpZXUPebWYuoXaQu1VU5AXHPqfxmLTdDFeqt1K2vm3aHTC7SEGE9M5A9e8Cn8aF/tXTSgUt9pfAYlVz5D/MQCf5TD4ibUl9F5yUqv22r5LLGbOG4w1ajEvurdD8+2m3zXQ0MXQKFxuKlSTkc5ViJPWOi/aDWTc6eU4sUKFxvXsxyOe54gPFH+o6j/wBF/wDpMr+iHUsmkFlVXlCoEuthdgyovlnayLtz8XYnHb1lz1Xp/n0tUXZA67WKgZwRggZ7ZmknQT5aVNqLGrrKfDhAWCEEKzAZwSBn3xAjxPpEurSiwZS21UYZA+Eo5P5/D/KU3QeovZpl0Vjf0iqw6e0+uyvk2fQPXtx/vToup9LNr1OLnTyn3gKFILbSuWyOfhZh+c9L0etb7b0G221ERnwDwmdpx78/yECo/wBH4A0CgAYW7VAAe32u3tj8pj8WBdQ32Vq7Hr8t2fy0D7XdSlW4bgRj7xh9VWW3QOijSVtWtjupdnG7bkF2LPggerMTMnT+mmp7XNrWG1gx3BeMAKAuB2AA4gafgzqLX6KprARYgNVgPcWVHZYD9ciVvX2sHVtF5SoX+z6rAdmVe9Pqqk+ntLjpPRfIttsW12Fzl2QhdocgDcuBxwB+PeNV0TzNVXqvNcNWrKqgLt2vt3g5GTnasCi6i956n03zlqXnVbdj2Pz9n5zuRcCdsJTdQ6H5uppv811agsUUBdv3ibHzkc5EuYExEQEREBERAREgwJiad+pKuqhcg9zzxxMC65zjFfJsKEE4wuCyvnHbGP1gWcSr+3WYJNYwH2A5PIxktjHae7tawLhU+UAgnOG5+IcdiOP1gWMTR1mqetVITcTnIHpit2/tVR/xTFZrnG/FZ+FWI78lVDL+RyRx7QLOJXprWLAbCBsLdjnIJGP5TzVrmJQFMbjYD342MFH65zAsolXTr3IGU25ZhnBIAXtwOcmSNc/xDyyMPtBwSCOfj7ds/wBsCziVletc2Ipr2qyqWz+6WV2257EjaP8Amnq7WOruoTIVWIPPJVUIH57sflAsYlausf4dyAE1l+5PI7Dt+Ewr1KzYW8og7lAU5z8SgtnA9G3D8oFxErqda7WBTXhSM7uf4FbHb3JH5SwECYiICIiAiIgIiIERiTECMRiTECIxJiBGJMRAiMSYgRiJMQIxGJMQIkxEBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQP/9k=",
+      "id": 4
+    },
+    {
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Булгаков",
+      "type": "Роман",
+      "price": 298,
+      "description": "«Ма́стер и Маргари́та» — роман Михаила Афанасьевича Булгакова, работа над которым началась в декабре 1928 года и продолжалась вплоть до смерти писателя. Роман относится к незавершённым произведениям; редактирование и сведение воедино черновых записей осуществляла после смерти мужа вдова писателя — Елена Сергеевна. Первая версия романа, имевшая названия «Копыто инженера», «Чёрный маг» и другие, была уничтожена Булгаковым в 1930 году. В последующих редакциях среди героев произведения появились автор романа о Понтии Пилате и его возлюбленная. Окончательное название — «Мастер и Маргарита» — оформилось в 1937 году.",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/a/aa/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_%28%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%29.jpg",
+      "id": 5
+    },
+    {
+      "title": "Дюна",
+      "author": "Фрэнк Герберт",
+      "type": "Фантастика",
+      "price": 888,
+      "description": "«Дю́на» (англ. Dune) — научно-фантастический роман американского писателя Фрэнка Герберта, впервые опубликованный в 1963—1965 годах в виде серии глав в журнале Analog Science Fiction and Fact и в 1965 году впервые изданный отдельной книгой. Книга, сделавшая Герберта знаменитым, была удостоена премий Хьюго и Небьюла. «Дюна» — один из самых известных научно-фантастических романов XX века.",
+      "img": "https://www.themoviedb.org/t/p/original/792hh8avD1oGHFwwiCeIuYLk7KE.jpg",
+      "id": 6
+    },
+    {
+      "title": "Война и мир",
+      "author": " Лев Толстой",
+      "type": "Роман",
+      "price": 1200,
+      "description": "«Война́ и мир» (рус. дореф. «Война и миръ») — роман-эпопея Льва Николаевича Толстого, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах. Эпилог романа доводит повествование до 1820 года. Замысел эпопеи формировался задолго до начала работы над тем текстом, который известен под названием «Война и мир». В наброске предисловия к «Войне и миру» Толстой писал, что в 1856 году начал писать повесть, «герой которой должен был быть декабрист, возвращающийся с семейством в Россию. Невольно от настоящего я перешёл к 1825 году… Но и в 1825 году герой мой был уже возмужалым, семейным человеком. Чтобы понять его, мне нужно было перенестись к его молодости, и молодость его совпала с … эпохой 1812 года… Ежели причина нашего торжества была не случайна, но лежала в сущности характера русского народа и войска, то характер этот должен был выразиться ещё ярче в эпоху неудач и поражений…» Так Лев Николаевич постепенно пришёл к необходимости начать повествование с 1805 года.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_%D0%9B._%D0%9D._%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80%2C_%D0%A2._1._%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4.1912%D0%B3%2C%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg/220px-%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_%D0%9B._%D0%9D._%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80%2C_%D0%A2._1._%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4.1912%D0%B3%2C%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg",
+      "id": 7
+    },
+    {
+      "title": "Свита Короля",
+      "author": "Нора Сакавич",
+      "type": "Роман",
+      "price": 498,
+      "description": "Время на исходе. Оказавшись в Университете Пальметто, Нил Джостен знал, что не доживет до конца года, но теперь, когда смерть не за горами, он больше чем прежде хочет жить. Дружба с Лисами была опрометчивой затеей, а поцелуй с одним из них — затеей немыслимой. Пока «Лисы» пытаются во что бы то ни стало выйти в финал чемпионата, Нил сражается за свою жизнь, ведь теперь ей угрожает не только Рико Морияма, но и мафиозный клан Бостонского Мясника. Правда — единственный шанс Нила на спасение, однако она может привести к гибели всех, кто ему дорог...\n",
+      "img": "https://s1.livelib.ru/boocover/1005935587/200x305/bdc3/boocover.jpg",
+      "id": 8
+    },
+    {
+      "title": "Пламя и кровь",
+      "author": "Джордж Мартин",
+      "type": "Фантастика",
+      "price": 1500,
+      "description": "Замысел книги «Пламя и кровь» появился в ходе работы над «Миром льда и пламени» — историческим путеводителем по вселенной, в которой происходит действие романов Джорджа Мартина. Ещё в 2014 году часть текста «Мира» (более двухсот тысяч слов) была вырезана из рукописи и стала основой «Пламени и крови»[2]. В феврале 2017 года со слов Элио М. Гарсии, соавтора Мартина по работе над путеводителем, стало известно, что в дополнение к этому материалу Мартин создал совершенно новые главы для книги; в частности, это рассказ о долгом правлении короля Джейехериса I Умиротворителя из династии Таргариенов, которое прежде только упоминалось в «Наследниках дракона»[3].\n\n22 июля 2017 года Мартин сообщил в своем блоге, что из-за обилия материала решено разбить книгу на два тома[4]. Первый, охватывающий историю Вестероса от завоевания Эйегона I до правления короля-мальчика Эйегона III, был опубликован 20 ноября 2018 года под названием «Пламя и кровь».",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/c/c2/Fire_%26_Blood_%282018%29_hardcover.jpg",
+      "id": 9
+    },
+    {
+      "title": "Пустая могила",
+      "author": "Джонатан Страуд",
+      "type": "Детектив",
+      "price": 1100,
+      "description": "Узнав, что Марисса Фиттис, основательница крупнейшего в Лондоне агентства по борьбе с призраками, вовсе не умерла много лет назад, мы решили пробраться в ее усыпальницу и вскрыть гроб. Действительно, вместо покойницы в гробу лежала восковая кукла. Но кто же тогда руководит агентством? И как Мариссе удалось прожить так долго и выглядеть столь молодо? Но похоже, получить ответы на эти вопросы нам не суждено, потому что мы стали получать угрозы, а затем агентство Фиттис и вовсе прислало к нашему дому головорезов. Чтобы спастись от верной смерти, мне и моим друзьям нужно пройти по Другой Стороне, миру призраков. Отважившись на такое опасное предприятие, мы сильно рискуем, но что, если нам все-таки удастся разгадать тайну Мариссы? Ведь как известно, ее агентство уже многие годы ведет эксперименты, путешествуя на Другую Сторону. Но мы и не предполагали, какая страшная правда нам откроется. Кажется, мы вплотную приблизились к разгадке Проблемы и скоро узнаем ответ на вопрос – почему призраки наводнили Англию...",
+      "img": "https://s1.livelib.ru/boocover/1002756364/o/df9a/Dzhonatan_Straud__Pustaya_mogila.jpeg",
+      "id": 10
+    }
+  ],
+  "person": [
+    {
+      "commit": "агата",
+      "user": "admin@admin.com",
+      "prodId": "2",
+      "id": 1
+    },
+    {
+      "commit": "кристи",
+      "user": "admin@admin.com",
+      "prodId": "2",
+      "id": 2
+    },
+    {
+      "commit": "ДУмай",
+      "user": "admin@admin.com",
+      "prodId": "3",
+      "id": 3
+    },
+    {
+      "commit": "Века",
+      "user": "admin@admin.com",
+      "prodId": "3",
+      "id": 4
+    },
+    {
+      "commit": "медленно",
+      "user": "admin@admin.com",
+      "prodId": "3",
+      "id": 5
+    },
+    {
+      "commit": "Думай",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "4",
+      "id": 6
+    },
+    {
+      "commit": "Медленно",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "4",
+      "id": 7
+    },
+    {
+      "commit": "Война",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "7",
+      "id": 8
+    },
+    {
+      "commit": "и Мир",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "7",
+      "id": 9
+    },
+    {
+      "commit": "Dune",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "6",
+      "id": 10
+    },
+    {
+      "commit": "good book",
+      "user": "ilenbaev@gmail.com",
+      "prodId": "2",
+      "id": 11
+    }
+  ]
+}
